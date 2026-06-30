@@ -3,12 +3,12 @@
 # DEPARTAMENTO DE CIBERSEGURIDAD
 # ============================================================================
 #
-# ESTUDIANTE: [Escriba aquí su Nombre Completo]
-# SECCIÓN: 10-__
-# FECHA DE CREACIÓN: [DD/MM/AAAA]
+# ESTUDIANTE: [Saray Solano Vargas]
+# SECCIÓN: 10-_1_
+# FECHA DE CREACIÓN: [30/6/2026]
 #
 # ============================================================================
-# ARCHIVO: [nombre_del_archivo.py]
+# ARCHIVO: [examen.py]
 # DESCRIPCIÓN: [Breve explicación de qué hace el programa y sus funciones]
 # ============================================================================
 #
